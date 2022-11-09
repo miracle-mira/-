@@ -1,6 +1,7 @@
 import java.util.*;
 //import java.util.Scanner;
 
+
 public class ArrayListEx {
     public static void main(String[] args){
         ArrayList<String> a = new ArrayList<String>();
